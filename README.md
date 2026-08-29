@@ -108,3 +108,6 @@ hard-coded.
   FWHM ≈0.85 s, 2 sub-peaks (piecemeal) — genuine swallow bursts, not chewing spikes.
 - Amplitude is uncalibrated (arbitrary units) — all intensity readings cohort-relative.
 ```
+
+## License
+Code and documentation are released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license — see `LICENSE`.
