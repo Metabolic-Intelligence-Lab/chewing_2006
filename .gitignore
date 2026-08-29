@@ -1,0 +1,35 @@
+# This repository tracks ANALYSIS CODE ONLY.
+# Human-subjects data, clinical databases, copyrighted PDFs, generated outputs
+# and submission files are not versioned. Regenerate outputs with:
+#   python analysis/run_all.py
+
+# Raw human sEMG recordings and pilot recordings (subject data)
+dati_raw/
+phases/
+validazione-algoritmo/
+
+# Clinical / anthropometric subject databases
+*.xlsx
+
+# Copyrighted PDFs, lab protocol, manuscript submission package
+articoli/
+*.pdf
+*.docx
+submission/
+
+# Generated analysis outputs and reports
+analysis/outputs/
+analysis/report/
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
